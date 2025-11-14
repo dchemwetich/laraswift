@@ -1,14 +1,7 @@
 # 🚀 Laravel Livewire + Sail Auto Setup
 
 > **One-command Laravel development environment** with Livewire 3, Volt, Flux UI, Docker Sail, and AdminNeo database manager.
-
-[
-[
-[
-[
-
 Automates the complete setup of a modern Laravel stack with Livewire, Docker Sail, MySQL, Redis, Meilisearch, Selenium, and AdminNeo—all in one command.
-
 ***
 
 ## ✨ Features
@@ -369,45 +362,6 @@ chmod -R 755 storage bootstrap/cache
 - [ ] SSL certificate automation
 
 
-### 🔮 Planned
-
-- [ ] Multi-project management
-- [ ] Custom service selection
-- [ ] Pre-configured templates
-- [ ] GitHub Actions integration
-- [ ] Automatic backups
-- [ ] Database seeding options
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch:**
-
-```
-git checkout -b feature/amazing-feature
-```   ```
-```
-
-3. **Commit your changes:**
-
-```bash
-git commit -m 'Add amazing feature'
-```
-
-4. **Push to the branch:**
-
-```
-git push origin feature/amazing-feature
-```   ```
-```
-
-5. **Open a Pull Request**
-
-***
 
 ## 📝 License
 
@@ -425,36 +379,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ***
 
-## 📧 Support
-
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/laravel-sail-setup/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/laravel-sail-setup/discussions)
-- **Email:** your.email@example.com
-
-***
-
-## 🌟 Star History
-
-If this project helped you, please consider giving it a ⭐ star!
-
-[
-
-***
-
-## 📸 Screenshots
-
-### Setup Process
-
-### AdminNeo Interface
-
-### Laravel App
-
-
-***
-
 <div align="center">
 
-**Made with ❤️ by [dcemwetich](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ by [dcemwetich](https://github.com/dchemwetich)**
 
 [⬆ Back to Top](#-laravel-livewire--sail-auto-setup)
 
@@ -512,10 +439,3 @@ Create **`laradev.ps1`** for Windows:
 # Windows PowerShell script coming soon!
 # Install: irm https://lara.netops.ink | iex
 ```
-
-For the **web installer**, you'll need:
-1. Host `laradev.ps1` on `lara.netops.ink`
-2. Set up proper MIME types for `.ps1` files
-3. Add signature verification for security
-
-***
