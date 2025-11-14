@@ -1,6 +1,6 @@
 # 🚀 Laravel Livewire + Sail Auto Setup
 
-> **One-command Laravel development environment** with Livewire 3, Volt, Flux UI, Docker Sail, and AdminNeo database manager.
+**One-command Laravel development environment** with Livewire 3, Volt, Flux UI, Docker Sail, and AdminNeo database manager.
 Automates the complete setup of a modern Laravel stack with Livewire, Docker Sail, MySQL, Redis, Meilisearch, Selenium, and AdminNeo—all in one command.
 ***
 
