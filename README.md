@@ -57,13 +57,13 @@ Automates the complete setup of a modern Laravel stack with Livewire, Docker Sai
 ### One-Line Install (Linux/macOS)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/laravel-sail-setup/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/dchemwetich/laravel-sail-setup/main/install.sh | bash
 ```
 
 Or download and run:
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/laravel-sail-setup/main/laradev.sh
+wget https://raw.githubusercontent.com/dchemwetich/laravel-sail-setup/main/laradev.sh
 chmod +x laradev.sh
 ./laradev.sh
 ```
